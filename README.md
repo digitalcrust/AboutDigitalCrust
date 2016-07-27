@@ -11,3 +11,9 @@ Digital Crust Team and Major Contributions:
 * U.S. Geological Survey - Institutional PI Sky Bristol + software engineers: Jeff Allen, Steve Tekell, and Dell Long; development of a microservice architecture for data transformation of heterogenous observation and measurement data
 
 Find more information online at http://earthcube.org/group/digital-crust.
+
+# Related Repositories
+
+* Current location of USGS code - https://my.usgs.gov/bitbucket/projects/DC
+* Data Type Registry component code base - https://github.com/usgin/registry-config-base
+* Data Type Registry config files - https://github.com/usgin/digital-crust-LDR
